@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santanu-antu
 - 👀 I’m interested in quantum computation and quantum information
-- 🌱 I’m currently learning Quantum LDPC Codes
+- 🌱 I’m currently learning quantum error-correcting codes
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Just chilling
