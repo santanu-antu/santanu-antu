@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @santanu-antu
-- 👀 I’m interested in quantum computation and quantum information
-- 🌱 I’m currently learning quantum error-correcting codes
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Just chilling
+Hi, I am San. I am a graduate student in the Applied Physics department of Yale University.
